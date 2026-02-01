@@ -1,0 +1,4 @@
+loadProducts(()=>{
+    renderOrder();
+    renderSummary();
+});
